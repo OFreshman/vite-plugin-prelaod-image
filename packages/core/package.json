@@ -1,7 +1,7 @@
 {
   "name": "vite-plugin-preload-image",
   "type": "module",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "The Vite Image Preloader Plugin helps optimize web performance by preloading critical images during the build process. It integrates seamlessly with Vite and supports custom configurations for image types and directories.",
   "author": "Ethan",
   "license": "MIT",

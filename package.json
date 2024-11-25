@@ -1,7 +1,7 @@
 {
   "name": "@vite-plugin-preload-image/monorepo",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.2.0",
   "private": true,
   "packageManager": "pnpm@9.14.2",
   "description": "简言之，vite-plugin-preload-image 是一个 Vite 插件，用于在构建时自动预加载页面中的图片资源，提高页面加载性能。",
