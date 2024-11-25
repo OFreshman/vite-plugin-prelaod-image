@@ -1,5 +1,5 @@
 {
-  "name": "@package-placeholder/playground",
+  "name": "@vite-plugin-preload-image/playground",
   "type": "module",
   "version": "0.0.0",
   "private": true,
